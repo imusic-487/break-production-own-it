@@ -1,0 +1,1 @@
+I deployed to prod without tests, deleted the database, and spent an hour blaming the network before I read my own diff.
